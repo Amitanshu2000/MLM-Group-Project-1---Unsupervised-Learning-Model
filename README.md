@@ -15,7 +15,7 @@
 ---
 
 ## 1. Project Information  
-**Title**: Data Exploration with Python using Pandas & Numpy Libraries  
+**Title**: 	Machine Learning for Managers  
 **Prepared By**:  
 
 - **Anirudh Gupta (055003)**  
